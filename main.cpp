@@ -2,7 +2,11 @@
 
 int main()
 {
-    std::cout<< "hello world!";
+    int width,breath;
+    width = 5;
+    breath=7;
+    std::cout << width;
+    std::cout << breath;
     return 0;
 }
 
